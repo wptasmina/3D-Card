@@ -1,2 +1,1 @@
-# 3D-Card
-https://github.com/wptasmina/3D-Card.git
+https://wptasmina.github.io/3D-Card
